@@ -23,6 +23,3 @@
 - **AI tools** – Used selectively to support design and layout ideas
 
 ---
-
-## 📁 Project Structure
-
